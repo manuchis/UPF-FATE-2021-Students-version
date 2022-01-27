@@ -1,8 +1,8 @@
-# UPF-FATE-2021
+# UPF-FATE-2022
 ## Repository for students
 
 
-Instructor: [David Solans](https://twitter.com/SolansDavid)
+Instructor: [Manuel Portela](manuel.portela@upf.edu)
 
 These are materials for an undergraduate course on Fairness, Accountability, Transparency and Ethics (FATE).
 
