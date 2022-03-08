@@ -7,17 +7,17 @@ echo $PythonPath
 
 
 # Adult dataset
-cd "${PythonPath}/site-packages/aif360/data/raw/adult"
+cd "${PythonPath}/site-packages/aif360/datasets/data/raw/adult"
 wget https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
 wget https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.test
 wget https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names
 
 
 # German dataset
-cd "${PythonPath}/site-packages/aif360/data/raw/german"
+cd "${PythonPath}/site-packages/aif360/datasets/data/raw/german"
 wget https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data
 wget https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.doc
 
 # Compas dataset
-cd "${PythonPath}/site-packages/aif360/data/raw/compas"
+cd "${PythonPath}/site-packages/aif360/datasets/data/raw/compas"
 wget https://raw.githubusercontent.com/propublica/compas-analysis/master/compas-scores-two-years.csv
